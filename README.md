@@ -64,6 +64,6 @@ The demo code for BlockChain-IOT project
 
 ## Tea traceability
 
-	[Tea traceability](https://github.com/iceriverdog/fabric-sdk-go-sample "悬停显示")
+   [Tea traceability](https://github.com/iceriverdog/fabric-sdk-go-sample)
 
 
