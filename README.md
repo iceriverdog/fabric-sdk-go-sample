@@ -62,6 +62,8 @@ a fabric-sdk-go-sample to build solutions that interact with [hyperledger fabric
 ## Documentation
 
 [hyperledger fabric V1.2](https://hyperledger-fabric.readthedocs.io/en/release-1.2/)
+
 [Fabric-SDK-Go](https://github.com/hyperledger/fabric-sdk-go)
+
 [Kongyixueyuan](https://github.com/kevin-hf/kongyixueyuan)
 
